@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+@layer utilities {
+  .font-display {
+    font-family: 'Baloo 2', system-ui, sans-serif;
+  }
+  .font-body {
+    font-family: 'Inter', system-ui, sans-serif;
+  }
+}
